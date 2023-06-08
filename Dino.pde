@@ -523,3 +523,8 @@ void keyPressed() {
       start = false;
       controlSrc = true;
     }
+    
+    else if (key == 'e') {
+      System.out.println(powerType);
+    }
+  }
