@@ -39,10 +39,4 @@ class PowerUpsEl {
      effect = "Shrink";
   }
   }
-
-  //void shrinkShroom() {
-  //  if (hit) {
-  //    radius = 10;
-  //  }
-  //}
 }
